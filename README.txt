@@ -1,6 +1,13 @@
 Py_ComFlo - One-dimensional compressible flow calculator
 
 
+{ 
+  It is written in Python. 
+  For plots presentation it is used the matplotlib library.
+  SQlite3 database to store calculations and to provide the possibility of extracting results e.g. xml.
+}
+
+
 In order to use this program, create a directory on your hard disk and copy the files :
 
 1 - Py_ComFlo.exe
