@@ -30,3 +30,4 @@ Py_ComFlo was written and designed by Bratja Jani of Piraeus University of Appli
 Department of Mechanical Engineering.
 
 ![Py_ComFlo](https://user-images.githubusercontent.com/55153832/67776148-98496380-fa68-11e9-82ca-4c0d6d23fd51.PNG)
+![](ComFlo.gif)
