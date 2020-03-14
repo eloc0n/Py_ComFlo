@@ -29,5 +29,3 @@ The other files are only needed in case you want to modify Py_ComFlo.
 Py_ComFlo was written and designed by Bratja Jani of Piraeus University of Applied Sciences 
 Department of Mechanical Engineering.
 
-
-![](ComFlo.gif)
