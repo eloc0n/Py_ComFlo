@@ -1,9 +1,9 @@
 # Py_ComFlo
 One-Dimensional Compressible Flow Calculator
 
-It is written in Python. 
-For plots presentation it is used the matplotlib library.
-SQlite3 database to store calculations.
+It is written in Python.<br>
+For plots presentation it is used the matplotlib library.<br>
+SQlite3 database to store calculations.<br>
 
 
 ![ComFlo](https://github.com/eloc0n/Py_ComFlo/blob/master/ComFlo.gif?raw=true)
