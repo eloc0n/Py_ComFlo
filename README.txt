@@ -1,4 +1,4 @@
-Py_ComFlo - One-dimensional compressible flow calculator
+##Py_ComFlo - One-dimensional compressible flow calculator
 
 
 
@@ -8,7 +8,7 @@ Py_ComFlo - One-dimensional compressible flow calculator
 
 ![ComFlo](https://user-images.githubusercontent.com/55153832/78596730-f585e400-7854-11ea-8894-833f766f25a9.gif)
 
-
+##How to intall
 In order to use this program, create a directory on your hard disk and copy the files :
 
 1 - Py_ComFlo.exe
