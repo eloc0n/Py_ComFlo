@@ -6,7 +6,7 @@
   For plots presentation it is used the matplotlib library.
   SQlite3 database to store calculations and to provide the possibility of extracting results e.g. xml.
 
-![ComFlo](https://user-images.githubusercontent.com/55153832/78596730-f585e400-7854-11ea-8894-833f766f25a9.gif)
+![ComFlo](https://github.com/eloc0n/Py_ComFlo/blob/master/ComFlo.gif?raw=true)
 
 ## How to intall
 In order to use this program, create a directory on your hard disk and copy the files :
