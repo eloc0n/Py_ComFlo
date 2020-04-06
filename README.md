@@ -2,6 +2,7 @@
 One-Dimensional Compressible Flow Calculator
 
 It is written in Python.<br>
+PyQt5 for GUI.<br>
 For plots presentation it is used the matplotlib library.<br>
 SQlite3 database to store calculations.<br>
 
