@@ -1,4 +1,4 @@
-## Py_ComFlo - One-dimensional compressible flow calculator
+# Py_ComFlo - One-dimensional compressible flow calculator
 
 
 
